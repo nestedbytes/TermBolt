@@ -1,9 +1,17 @@
 ﻿	System.Net.WebClient wc = new System.Net.WebClient();
-string webData = wc.DownloadString("");
+
 while (true) 
 {
+string latver = wc.DownloadString("https://raw.githubusercontent.com/shourgamer2/TermBolt/main/version.txt");
+if (latver.Trim().Contains("1.0.0") == true) {
+	Console.WriteLine("1.0.0");
 
-  // code block to be executed
+}
+else 
+{
+	Console.WriteLine("Version outdated go to https://github.com/shourgamer2/TermBolt to download");
+}
+
 string userName = Environment.UserName;
 Console.Write(userName + "@" + "TermBolt:");
 
