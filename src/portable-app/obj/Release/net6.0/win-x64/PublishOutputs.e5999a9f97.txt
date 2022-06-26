@@ -1,0 +1,2 @@
+D:\c# projects\c#\termbolt\src\portable-app\bin\Release\net6.0\win-x64\publish\termbolt.pdb
+D:\c# projects\c#\termbolt\src\portable-app\bin\Release\net6.0\win-x64\publish\termbolt.exe

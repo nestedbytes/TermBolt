@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAST7rEhOvQ0YEJIIiJ6IPpMv/W9/ERlwL76RbVvYvGOoazKTTleRNc4/vFbPDila8zabn/6iXftxNFNNfTq9Q==",
+  "success": true,
+  "projectFilePath": "D:\\c# projects\\c#\\termbolt\\src\\portable-app\\termbolt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.6\\microsoft.netcore.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.6\\microsoft.aspnetcore.app.runtime.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
