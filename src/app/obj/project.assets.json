@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c# projects\\c#\\termbolt\\termbolt.csproj",
+      "projectUniqueName": "D:\\c# projects\\c#\\termbolt\\src\\app\\termbolt.csproj",
       "projectName": "termbolt",
-      "projectPath": "D:\\c# projects\\c#\\termbolt\\termbolt.csproj",
+      "projectPath": "D:\\c# projects\\c#\\termbolt\\src\\app\\termbolt.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\c# projects\\c#\\termbolt\\obj\\",
+      "outputPath": "D:\\c# projects\\c#\\termbolt\\src\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

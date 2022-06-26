@@ -66,9 +66,9 @@ Name: "ukrainian"; MessagesFile: "compiler:Languages\Ukrainian.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "C:\Users\hp\Documents\termbolt\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\hp\Documents\termbolt\termbolt.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "C:\Users\hp\Documents\termbolt\termbolt.runtimeconfig.json"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\hp\Documents\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\hp\Documents\termbolt.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\hp\Documents\termbolt.runtimeconfig.json"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
