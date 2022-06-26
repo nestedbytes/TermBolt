@@ -1,0 +1,5 @@
+D:\c# projects\c#\termbolt-actually\bin\Debug\net6.0\publish\termbolt-actually.exe
+D:\c# projects\c#\termbolt-actually\bin\Debug\net6.0\publish\termbolt-actually.dll
+D:\c# projects\c#\termbolt-actually\bin\Debug\net6.0\publish\termbolt-actually.deps.json
+D:\c# projects\c#\termbolt-actually\bin\Debug\net6.0\publish\termbolt-actually.runtimeconfig.json
+D:\c# projects\c#\termbolt-actually\bin\Debug\net6.0\publish\termbolt-actually.pdb

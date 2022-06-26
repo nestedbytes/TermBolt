@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pz051/uY4DVRKlzNrvAcc5ZT/3pCrZtJLZsygGAy4pQ1MVbnactj0/YIt/BpXdjWHXY73AimCq1i7ByzY6zJ6Q==",
+  "dgSpecHash": "Pa/51bW0QRWneA9ny3m7sNhjLoRE3jsVWvK2sLs3hYo+zolz0liscoISQvvn27NYfroaIZb1rNaMWIgR4U8hpg==",
   "success": true,
-  "projectFilePath": "D:\\c# projects\\c#\\termbolt-actually\\termbolt-actually.csproj",
+  "projectFilePath": "D:\\c# projects\\c#\\termbolt\\termbolt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
