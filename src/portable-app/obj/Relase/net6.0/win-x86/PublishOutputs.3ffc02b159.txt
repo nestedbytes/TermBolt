@@ -1,2 +1,0 @@
-D:\c# projects\c#\termbolt\src\portable-app\bin\Relase\net6.0\win-x86\publish\termbolt.pdb
-D:\c# projects\c#\termbolt\src\portable-app\bin\Relase\net6.0\win-x86\publish\termbolt.exe
