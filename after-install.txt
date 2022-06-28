@@ -1,0 +1,3 @@
+Thanks for installing termbolt.
+Here are a few guides to help you get started !
+https://github.com/shourgamer2/TermBolt/wiki/Commands

@@ -1,0 +1,6 @@
+Welcome,
+TermBolt is a free and open source terminal/console.
+It is in active development.
+To update please go to https://github.com/shourgamer2/TermBolt/releases
+GitHub: https://github.com/shourgamer2/termbolt
+Developer: https://github.com/shourgamer2
