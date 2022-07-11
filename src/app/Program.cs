@@ -21,7 +21,7 @@ while (true)
 	// Check For updates
 	// If on correct version
 string latver = wc.DownloadString("https://raw.githubusercontent.com/shourgamer2/TermBolt/main/version.txt");
-if (latver.Trim().Contains("2.1.0") == true) {
+if (latver.Trim().Contains("2.1.1") == true) {
 	Console.WriteLine("    ");
 
 }
@@ -36,7 +36,7 @@ Console.Write(userName + "@" + "TermBolt:");
 // Help
 string inputpr = Console.ReadLine();
 if (inputpr.Contains("help") == true) {
-   Console.WriteLine("Commands. exit = closes the window | help = Get help and list of commands | about = about this terminal ! | wfd = download file from web | wping = ping a url or a site ");
+   Console.WriteLine("Commands. exit = closes the window | help = Get help and list of commands | about = about this terminal ! | wfd = download file from web | wping = ping a url or a site | calc = Do maths inside termbolt ! ");
 }
 // Exit
 if (inputpr.Contains("exit") == true) {
