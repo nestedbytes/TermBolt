@@ -3,7 +3,22 @@ A free and opensource terminal.
 # Guide
 https://github.com/shourgamer2/TermBolt/wiki/Commands the guide for the commands
 # Install
-Go to https://github.com/shourgamer2/TermBolt/releases and then download the latest version.This will have regular updates.
+Go to https://github.com/shourgamer2/TermBolt/releases and then download the latest version.This will have regular updates. <br>
+For windows download the setup or the portable. <br>
+For linux run these commands:
+```sh
+sudo apt-get install wget
+```
+```sh
+wget https://raw.githubusercontent.com/shourgamer2/TermBolt/main/linux-install-termbolt.sh
+```
+```sh
+bash linux-install-termbolt.sh
+```
+Then to run 
+```sh
+./termbolt
+```
 # Modify 
 ```sh
 git clone https://github.com/shourgamer2/TermBolt
