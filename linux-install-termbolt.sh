@@ -5,4 +5,6 @@ echo "Installing unzip"
 sudo apt-get install unzip
 echo "Unzipping"
 unzip TermBolt-Linux.zip
-echo "Everything is done now run ./termbolt to open termbolt!"
+echo "Some stuff to make it work!"
+export DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1
+echo "Everything is done now run chmod u+x ./termbolt and then  ./termbolt to open termbolt!"
