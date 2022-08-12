@@ -7,13 +7,7 @@ Go to https://github.com/shourgamer2/TermBolt/releases and then download the lat
 For windows download the setup or the portable. <br>
 For linux run these commands:
 ```sh
-sudo apt-get install wget
-```
-```sh
-wget https://raw.githubusercontent.com/shourgamer2/TermBolt/main/linux-install-termbolt.sh
-```
-```sh
-bash linux-install-termbolt.sh
+curl https://raw.githubusercontent.com/shourgamer2/TermBolt/main/linux-install-termbolt.sh | bash
 ```
 Then to run 
 ```sh
