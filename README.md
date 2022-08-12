@@ -11,7 +11,7 @@ curl https://raw.githubusercontent.com/shourgamer2/TermBolt/main/linux-install-t
 ```
 Then to run 
 ```sh
-./termbolt
+./TermBolt-Linux/termbolt
 ```
 # Modify 
 ```sh
