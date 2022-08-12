@@ -1,11 +1,9 @@
 #!/bin/bash
-echo "Downloading zip"
-curl https://github.com/shourgamer2/TermBolt/releases/download/3.0.0/TermBolt-Linux.zip --output TermBolt-Linux.zip
-echo "Installing unzip"
-sudo apt-get install unzip
+echo "Downloading Archive"
+curl https://github.com/shourgamer2/TermBolt/releases/download/3.0.0/TermBolt-Linux.tar.gz --output  TermBolt-Linux.tar.gz
 echo "Unzipping"
-unzip TermBolt-Linux.zip
+tar -xzvf TermBolt-Linux.tar.gz
 echo "Some stuff to make it work!"
 export DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1
-chmod u+x ./termbolt
-echo "Everything is done now run ./termbolt to open termbolt!"
+chmod u+x ./TermBolt-Linux/termbolt
+echo "Everything is done now run ./TermBolt-Linux/termbolt to open termbolt!"
