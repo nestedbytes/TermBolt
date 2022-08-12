@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "Installing wget"
+sudo apt-get install wget
 echo "Downloading zip"
 wget https://github.com/shourgamer2/TermBolt/releases/download/3.0.0/TermBolt-Linux.zip
 echo "Installing unzip"
