@@ -22,7 +22,7 @@ while (true)
 	// Check For updates
 	// If on cold version 
 string latver = wc.DownloadString("https://raw.githubusercontent.com/shourgamer2/TermBolt/main/version.txt");
-if (!latver.Trim().Contains("3.0.0") == true) {
+if (!latver.Trim().Contains("3.1.0") == true) {
 	Console.WriteLine("Version outdated go to https://github.com/shourgamer2/TermBolt to download");
 
 }
@@ -80,6 +80,12 @@ caclc();
 if (inputpr.Contains("cclear") == true) {
 Console.Clear();
 
+
+
+}
+if (inputpr.Contains("pcu") == true) {
+
+Console.WriteLine(userName);
 
 
 }
