@@ -33,7 +33,7 @@ Console.Write(userName + "@" + "TermBolt:");
 // Help
 string inputpr = Console.ReadLine();
 if (inputpr.Contains("help") == true) {
-   Console.WriteLine("Commands. exit = closes the window | help = Get help and list of commands | about = about this terminal ! | wfd = download file from web | wping = ping a url or a site | calc = Do maths inside termbolt ! | cclear = Clears the terminal ");
+   Console.WriteLine("Commands. exit = closes the window | help = Get help and list of commands | about = about this terminal ! | wfd = download file from web | wping = ping a url or a site | calc = Do maths inside termbolt ! | cclear = Clears the terminal | pcu = Print the current user account's name | strt = start a process");
 }
 // Exit
 if (inputpr.Contains("exit") == true) {
