@@ -92,7 +92,7 @@ Console.WriteLine(userName);
 
 
 }
-
+// strt
 if (inputpr.Contains("strt") == true) {
 
 Console.Write("Type the name and the path of the program you want to start:");
