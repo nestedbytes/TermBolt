@@ -22,7 +22,7 @@ while (true)
 	// Check For updates
 	// If on old version 
 string latver = wc.DownloadString("https://raw.githubusercontent.com/shourgamer2/TermBolt/main/version.txt");
-if (!latver.Trim().Contains("3.1.0") == true) {
+if (!latver.Trim().Contains("3.1.1") == true) {
 	Console.WriteLine("Version outdated go to https://github.com/shourgamer2/TermBolt to download");
 
 }
