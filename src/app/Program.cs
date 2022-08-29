@@ -95,7 +95,7 @@ Console.WriteLine(userName);
 
 if (inputpr.Contains("strt") == true) {
 
-Console.WriteLine("Type the name and the path of the program you want to start:");
+Console.Write("Type the name and the path of the program you want to start:");
 string ex = Console.ReadLine();
 Process.Start(ex);
 
