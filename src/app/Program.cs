@@ -101,6 +101,12 @@ Process.Start(ex);
 
 
 }
+
+if (inputpr.Contains("ctime") == true) {
+DateTime time = DateTime.Now;
+Console.WriteLine(time);
+
+}
 		}
 	}
     // calc function
