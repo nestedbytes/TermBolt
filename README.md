@@ -11,5 +11,5 @@ git clone https://github.com/shourgamer2/TermBolt
 ```
 # Edit the code
 To edit the code open your Program.cs and modify it. I have put comments to make people understand the code so you can check that out
-# Sponsor
+# Sponsor me
 https://www.shourgamer2.tk/#Sponsor
