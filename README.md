@@ -1,5 +1,7 @@
 # TermBolt
 A free and opensource terminal.
+# Note
+The linux version isn't that stable so I suggest not using it till I fix it
 # Guide
 https://github.com/shourgamer2/TermBolt/wiki/Commands the guide for the commands
 # Install
