@@ -1,5 +1,5 @@
 # TermBolt
-A free and opensource terminal.
+A free and opensource terminal. Linux and windows
 # Note
 The linux version isn't that stable so I suggest not using it till I fix it
 # Guide
