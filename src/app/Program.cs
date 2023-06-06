@@ -21,9 +21,9 @@ while (true)
 {
 	// Check For updates
 	// If on old version 
-string latver = wc.DownloadString("https://raw.githubusercontent.com/shourgamer2/TermBolt/main/version.txt");
-if (!latver.Trim().Contains("4.0.0") == true) {
-	Console.WriteLine("Version outdated go to https://github.com/shourgamer2/TermBolt to download");
+string latver = wc.DownloadString("https://raw.githubusercontent.com/shourdev/TermBolt/main/version.txt");
+if (!latver.Trim().Contains("4.1.0") == true) {
+	Console.WriteLine("Version outdated go to https://github.com/shourdev/TermBolt to download");
 
 }
 
@@ -41,7 +41,7 @@ if (inputpr.Contains("exit") == true) {
 }
 // About
 if (inputpr.Contains("about") == true) {
-Console.WriteLine("Termbolt is a fast and usefull terminal | GitHub: https://github.com/shourgamer2/TermBolt");
+Console.WriteLine("Termbolt is terminal I made for fun, I will no longer update this  | GitHub: https://github.com/shourdev/TermBolt");
 
 }
 
